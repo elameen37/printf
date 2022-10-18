@@ -1,6 +1,6 @@
 # *0x11. C - printf*
 
-### Description
+### Description.
 
 ------------
 
@@ -15,12 +15,12 @@ These arguments are placed using the percentage '%' operator.
 #### Resources
 
 
-Secrets of printf by Thomas Samuel
+Secrets of printf by Thomas Samuel.
 
 
 ------------
 
-#### Authorized functions and macros
+#### Authorized functions and macros.
 
 ------------
 
@@ -75,12 +75,12 @@ Many other specifiers and flags were added and by combinig those the _printf() f
 
 ------------
 
-#### Use & Examples
+#### Use & Examples.
 
 
 ------------
 
-###### Specifiers
+###### Specifiers.
 
 Specifier                |Output                        |Examples |
 |----------------|-------------------------------|-----------------------------|
@@ -230,7 +230,7 @@ Handle the - flag character for non-custom conversion specifiers.
 Handle the following custom conversion specifier:
  - r : prints the reversed string
 
-15. ###### The flood of print has turned reading into a process of gulping rather than savoring 
+15. ###### The flood of print has turned reading into a process of gulping rather than savoring.
 Handle the following custom conversion specifier:
 - R: prints the rot13'ed string
 
@@ -239,5 +239,5 @@ All the above options work well together.
 
 ### Authors &copy;
 
-- Aminu Shaibu
-- Igwe felix chinedu Igwe
+- Aminu Shaibu.
+- Igwe felix chinedu Igwe.
