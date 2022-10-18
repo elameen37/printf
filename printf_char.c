@@ -5,7 +5,6 @@
  * @val: arguments.
  * Return: 1.
  */
-
 int printf_char(va_list val)
 {
 	char s;
