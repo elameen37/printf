@@ -6,7 +6,6 @@
  *
  * Return: the string
  */
-
 int printf_srev(va_list args)
 {
 
